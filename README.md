@@ -4,3 +4,7 @@ In recent years, the chemical engineering field has been shifting from MATLAB to
 Python and Julia are both valid options in the field of chemical engineering. They do have, however, clear advantages:
 - **Python advantage**s: Easy-to-learn syntax, broad documentation, vast selection of machine learning models, large and active community, good libraries for visualizations, widespread and accepted.
 - **Julia advantages**: fast and optimized for heavy numerical and scientific computing, similarities with MATLAB which can facilitate the transition, SciML library has very good ML models.
+
+## Dissimination
+The work has been presented at the [8th BioProScale Symposium 2024](https://biotechnologie.ifgb.de/bioproscale2024).
+Please see the presented [poster](https://github.com/FiammettaC/BioVL-Library-Julia/blob/main/BioproscalePoster_fiacac2024_final.pdf).
